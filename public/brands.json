@@ -1,0 +1,218 @@
+[
+    {
+      "_id": "1f2g3h4j5k6l",
+      "brand_name": "Foodpanda",
+      "rating": 4.5,
+      "description": "Order food from your favorite restaurants and enjoy quick delivery.",
+      "brand_logo": "https://i.ibb.co.com/Ny3dxFg/Foodpanda-Logo.png",
+      "image": "https://i.ibb.co.com/C966KHG/food2.jpg",
+      "coupons": [
+        {
+          "coupon_code": "PANDA20",
+          "coupon_description": "20% off on your first order",
+          "expiry_date": "2024-12-31",
+          "condition": "First-time users only",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "FREEDEL",
+          "description": "Free delivery on orders above $10",
+          "expiry_date": "2024-11-30",
+          "condition": "Minimum order of $10",
+          "coupon_type": "Free Shipping"
+        }
+      ],
+      "shop_link": "https://foodpanda.com",
+      "category": "Food Delivery",
+      "isSaleOn": true
+    },
+    {
+      "_id": "2m3n4o5p6q7r",
+      "brand_name": "Daraz",
+      "rating": 4.3,
+      "description": "Your go-to online shopping platform for all kinds of products.",
+      "brand_logo": "https://i.ibb.co.com/qWmrmtt/daraz.jpg",
+      "image": "https://i.ibb.co.com/CzXpgc9/Ecommerce-Shopping-Infographics.png",
+      "coupons": [
+        {
+          "coupon_code": "DARAZ10",
+          "coupon_description": "10% off on electronics",
+          "expiry_date": "2024-12-15",
+          "condition": "Valid on selected items only",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "WINTERDEAL",
+          "description": "15% off on winter clothing",
+          "expiry_date": "2024-12-31",
+          "condition": "Applicable on purchases above $50",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_link": "https://daraz.com",
+      "category": "Online Shopping",
+      "isSaleOn": true
+    },
+    {
+      "_id": "4s5t6u7v8w9x",
+      "brand_name": "Klook",
+      "rating": 4.8,
+      "description": "Discover and book amazing travel experiences and attractions.",
+      "brand_logo": "https://i.ibb.co.com/bsvDL67/klook-logo.png",
+      "image": "https://i.ibb.co.com/sC3Rzg7/philipp-kammerer-6-Mxb-m-Z-Q8-E-unsplash.jpg",
+      "coupons": [
+        {
+          "coupon_code": "TRAVEL10",
+          "coupon_description": "10% off on all bookings",
+          "expiry_date": "2024-11-30",
+          "condition": "No minimum spend required",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "ADVENTURE",
+          "description": "Buy 2 tickets and get 1 free",
+          "expiry_date": "2024-12-31",
+          "condition": "On selected tours only",
+          "coupon_type": "BOGO"
+        }
+      ],
+      "shop_link": "https://klook.com",
+      "category": "Travel & Activities",
+      "isSaleOn": true
+    },
+    {
+      "_id": "7y8z9a0b1c2d",
+      "brand_name": "AliExpress",
+      "rating": 4.4,
+      "description": "Global online marketplace offering products at unbeatable prices.",
+      "brand_logo": "https://i.ibb.co.com/Yh7Fv5C/ali-express.jpg",
+      "image": "https://i.ibb.co.com/nkpPxtq/ali.jpg",
+      "coupons": [
+        {
+          "coupon_code": "SHOP5",
+          "coupon_description": "$5 off on orders above $50",
+          "expiry_date": "2025-01-01",
+          "condition": "Minimum purchase of $50",
+          "coupon_type": "Flat Discount"
+        },
+        {
+          "coupon_code": "FREESHIP2024",
+          "description": "Free shipping on all items",
+          "expiry_date": "2024-12-31",
+          "condition": "No conditions apply",
+          "coupon_type": "Free Shipping"
+        }
+      ],
+      "shop_link": "https://aliexpress.com",
+      "category": "E-commerce",
+      "isSaleOn": true
+    },
+    {
+      "_id": "3e4f5g6h7i8j",
+      "brand_name": "Banggood",
+      "rating": 4.2,
+      "description": "Shop gadgets, toys, electronics, and more at amazing prices.",
+      "brand_logo": "https://i.ibb.co.com/tm0cZW1/banggood.png",
+      "image": "https://i.ibb.co.com/fxbHdPY/images.jpg",
+      "coupons": [
+        {
+          "coupon_code": "GADGET20",
+          "coupon_description": "20% off on gadgets",
+          "expiry_date": "2025-02-28",
+          "condition": "Valid on selected items only",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "FIRSTBUY",
+          "coupon_description": "$10 off on your first order",
+          "expiry_date": "2024-12-31",
+          "condition": "First-time customers only",
+          "coupon_type": "Flat Discount"
+        }
+      ],
+      "shop_link": "https://banggood.com",
+      "category": "E-commerce",
+      "isSaleOn": true
+    },
+    {
+      "_id": "5k6l7m8n9o0p",
+      "brand_name": "Booking.com",
+      "rating": 4.6,
+      "description": "Book hotels, homes, and experiences worldwide at great rates.",
+      "brand_logo": "https://logos-world.net/wp-content/uploads/2021/08/Booking-Logo.png",
+      "image": "https://i.ibb.co.com/sC3Rzg7/philipp-kammerer-6-Mxb-m-Z-Q8-E-unsplash.jpg",
+      "coupons": [
+        {
+          "coupon_code": "STAY10",
+          "coupon_description": "10% off on hotel bookings",
+          "expiry_date": "2024-11-30",
+          "condition": "Applicable on bookings above $100",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_link": "https://booking.com",
+      "category": "Travel",
+      "isSaleOn": false
+    },
+    {
+      "_id": "6q7r8s9t0u1v",
+      "brand_name": "Agoda",
+      "rating": 4.7,
+      "description": "Find the best deals on hotels, resorts, and vacation rentals.",
+      "brand_logo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Agoda_transparent_logo.png",
+      "image" : "https://i.ibb.co.com/zNwQDtw/pexels-andreimike-1271619.jpg",
+      "coupons": [
+        {
+          "coupon_code": "VACAY15",
+          "coupon_description": "15% off on selected hotels",
+          "expiry_date": "2025-03-15",
+          "condition": "For stays between January and March",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_link": "https://agoda.com",
+      "category": "Travel",
+      "isSaleOn": true
+    },
+    {
+      "_id": "7w8x9y0z1a2b",
+      "brand_name": "FARFETCH",
+      "rating": 4.8,
+      "description": "Shop luxury fashion from designers worldwide.",
+      "brand_logo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Farfetch_logo_2020.svg",
+      "image" : "https://i.ibb.co.com/sPJ6tD2/image-18.png",
+      "coupons": [
+        {
+          "coupon_code": "LUXE20",
+          "coupon_description": "20% off on first purchase",
+          "expiry_date": "2024-12-31",
+          "condition": "First-time users only",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_link": "https://farfetch.com",
+      "category": "Luxury Fashion",
+      "isSaleOn": true
+    },
+    {
+      "_id": "8c9d0e1f2g3h",
+      "brand_name": "FOREO",
+      "rating": 4.9,
+      "description": "Revolutionary skincare and beauty tech devices.",
+      "brand_logo": "https://i.ibb.co.com/Cn94prr/foreo.png",
+      "image": "https://i.ibb.co.com/hg7tHsd/beauty.jpg",
+      "coupons": [
+        {
+          "coupon_code": "SKIN10",
+          "coupon_description": "10% off on all products",
+          "expiry_date": "2024-12-15",
+          "condition": "No minimum spend required",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_link": "https://foreo.com",
+      "category": "Beauty Tech",
+      "isSaleOn": false
+    }
+  ]
+  
